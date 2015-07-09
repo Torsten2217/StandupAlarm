@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>caption</key>
+		<string>15 minutes</string>
+		<key>interval</key>
+		<string>15</string>
+		<key>health</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>caption</key>
+		<string>30 minutes</string>
+		<key>interval</key>
+		<string>30</string>
+		<key>health</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>caption</key>
+		<string>60 minutes</string>
+		<key>interval</key>
+		<string>60</string>
+		<key>health</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>caption</key>
+		<string>90 minutes</string>
+		<key>interval</key>
+		<string>90</string>
+		<key>health</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>caption</key>
+		<string>120 minutes</string>
+		<key>interval</key>
+		<string>120</string>
+		<key>health</key>
+		<integer>1</integer>
+	</dict>
+</array>
+</plist>
